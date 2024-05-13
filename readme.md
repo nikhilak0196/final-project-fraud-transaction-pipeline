@@ -1,7 +1,6 @@
 # Final Project: Fraud Transaction Pipeline
 
 **Dataset** : You can download the dataset [here](https://drive.google.com/file/d/1LmPGE7Vgn1yYszM0s9nwfmwr36RHI3BB/view?usp=drive_link) <br>
-**Presentation Deck** : View presentation deck [here](https://www.canva.com/design/DAFp8g3_K-M/4F6yNiyhJDTIdD6i_OhaVA/view?utm_content=DAFp8g3_K-M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <br>
 <br>
 
